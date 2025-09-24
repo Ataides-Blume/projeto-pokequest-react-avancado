@@ -10,6 +10,7 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
+  "homepage": "https://ataidesblume.github.io/projeto-pokequest-react-avancado/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
