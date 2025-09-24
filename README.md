@@ -71,7 +71,7 @@ Siga os passos abaixo para instalar as dependências e executar o projeto em sua
 
 ## Conclusão
 
-Agradeço a oportunidade de desenvolver este projeto e demonstrar minhas habilidades em React. Foi uma ótima experiência e me permitiu aprofundar meus conhecimentos em gerenciamento de estado e arquitetura de componentes.
+Agradeço muito a oportunidade de desenvolver este projeto e demonstrar minhas habilidades em React. Foi uma ótima experiência e me permitiu aprofundar meus conhecimentos em gerenciamento de estado e arquitetura de componentes.
 
 ## (ABO)
 
