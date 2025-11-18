@@ -20,7 +20,7 @@ const Root = () => {
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ThemeContextProvider>
-      <BrowserRouter basename="projeto-pokequest-react-avancado/">
+      <BrowserRouter basename="/projeto-pokequest-react-avancado/">
         <Root />
       </BrowserRouter>
     </ThemeContextProvider>
